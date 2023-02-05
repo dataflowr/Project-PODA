@@ -1,3 +1,8 @@
+# DL-DIY potential project ideas
+- test out impact of new prompts
+
+-------------------
+
 # PØDA: Prompt-driven Zero-shot Domain Adaptation
 [Mohammad Fahes<sup>1</sup>](https://mfahes.github.io/),
 [Tuan-Hung Vu<sup>1,2</sup>](https://tuanhungvu.github.io/),
